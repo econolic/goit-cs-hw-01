@@ -71,7 +71,7 @@ add al, [a]          ; Додаємо a
 
 ### 📋 Завдання 1: Асемблер
 
-#### ��� WSL (Windows Subsystem for Linux)
+#### WSL (Windows Subsystem for Linux)
 
 **Найпростіший спосіб для Windows:**
 ```powershell
